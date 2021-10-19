@@ -29,9 +29,9 @@ time, mark, audio, video {
 body {
   padding:10px 50px 0 0;
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 16px;
+	font-size: 14px;
 	color: #232323;
-	background-color: white; // #FBFAF7;
+	background-color: #FBFAF7;
 	margin: 0;
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
@@ -60,15 +60,15 @@ h1,h2, h3 {
 }
 
 h1 {
-	font-size: 36px;
+	font-size: 30px;
 }
 
 h2 {
-	font-size: 28px;
+	font-size: 24px;
 }
 
 h3 {
-	font-size: 22px;
+	font-size: 18px;
 }
 
 h4, h5, h6 {
@@ -216,8 +216,8 @@ td {
 /* Header */
 
 header {
-	background-color: white;
-	color: #777;
+	background-color: #171717;
+	color: #FDFDFB;
   width:170px;
   float:left;
   position:fixed;
