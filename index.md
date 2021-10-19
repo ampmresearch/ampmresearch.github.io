@@ -34,6 +34,10 @@ with the kind support of IAS, the *Institute of Advanced Study* of the Universit
 
 <img alt="IAS UvA logo" src="https://pbs.twimg.com/profile_images/1234780957728788480/20Fuq6kP_400x400.jpg" width="80">
 
+### Program Committee
+
+TBA
+
 ### Important Dates
 
 - Submission deadline: **12 November 2021** until 23:59
