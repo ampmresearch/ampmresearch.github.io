@@ -1,3 +1,4 @@
+<img alt="AMPM logo" src="https://polder.center/wp-content/uploads/2021/10/AMPM-2021.png">
 
 # AMPM 2021: First Workshop in Agent-based Modeling & Policy-Making 
 in conjunction with [**JURIX 2021**](https://jurix2021.mruni.eu/), the 34th International Conference on Legal
