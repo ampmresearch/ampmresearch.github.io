@@ -27,6 +27,8 @@ The workshop aims to attract participants from various disciplines, and to be of
 
 People interested in participating are requested to submit *extended abstracts* (**500-1000 words**, excluding references) until the **12th November 2021**. Authors of the accepted abstracts presented at the workshop will be asked to extend their contributions to short papers (min 5 pages), integrating feedback and discussions for a second round of reviews, which will then be published as open-access workshop proceedings (whether OASIcs or CEUR TBD).
 
+Please email your submissions, and/or requests for further information to: [ampmworkshop@protonmail.com](mailto:ampmworkshop@protonmail.com).
+
 ### Organizers
 
 - Christoph Becker, Institute of Advanced Study, University of Amsterdam,
@@ -43,10 +45,8 @@ TBA
 
 ### Important Dates
 
-Please email your submissions and requests for further information to: [ampmworkshop@protonmail.com](mailto:ampmworkshop@protonmail.com)
-
 - Submission deadline: **12 November 2021** until 23:59,
 - Notification of acceptance: 17 November 2021,
 - Workshop: 8 December 2021.
 
-Registration can be done [here](https://jurix2021.mruni.eu/registration/). If your participation is virtual, please register as remote participants.
+Registration can be done [here](https://jurix2021.mruni.eu/registration/). If participation is virtual, please register as remote participants.
