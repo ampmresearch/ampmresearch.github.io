@@ -30,8 +30,8 @@ People interested in participating are requested to submit extended abstracts (5
 - Giovanni Sileno, Informatics Institute/University of Amsterdam
 - Nicola Lettieri, INAPP (National Institute for Public Policy Analysis), University of Sannio
 
-<img float="right" alt="IAS" src="https://pbs.twimg.com/profile_images/1234780957728788480/20Fuq6kP_400x400.jpg" width="80">
 with the kind support of IAS, the *Institute of Advanced Study* of the University of Amsterdam. 
+<img alt="IAS UvA logo" src="https://pbs.twimg.com/profile_images/1234780957728788480/20Fuq6kP_400x400.jpg" width="80">
 
 ### Important Dates
 
