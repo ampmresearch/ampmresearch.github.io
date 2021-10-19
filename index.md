@@ -1,4 +1,4 @@
-<img alt="AMPM logo" src="https://polder.center/wp-content/uploads/2021/10/AMPM-2021.png">
+[<img alt="AMPM logo" src="https://polder.center/wp-content/uploads/2021/10/AMPM-2021.png">](https://polder.center/2021/10/18/1st-workshop-in-agent-based-modeling-policy-making-ampm-2021-jurix-2021/)
 
 # AMPM 2021: First Workshop in Agent-based Modeling & Policy-Making 
 in conjunction with [JURIX 2021](https://jurix2021.mruni.eu/), the 34th International Conference on Legal
@@ -25,7 +25,7 @@ The workshop aims to attract participants from various disciplines, and to be of
 
 ### Participation and Submission
 
-People interested in participating are requested to submit *extended abstracts* (**500-1000 words**, excluding references) before the **13th November 2021**. Authors of the accepted abstracts presented at the workshop will be asked to extend their contributions to short papers (min 5 pages), integrating feedback and discussions for a second round of reviews, which will then be published as open-access workshop proceedings (whether OASIcs or CEUR TBD).
+People interested in participating are requested to submit *extended abstracts* (**500-1000 words**, excluding references) until the **12th November 2021**. Authors of the accepted abstracts presented at the workshop will be asked to extend their contributions to short papers (min 5 pages), integrating feedback and discussions for a second round of reviews, which will then be published as open-access workshop proceedings (whether OASIcs or CEUR TBD).
 
 ### Organizers
 
@@ -43,6 +43,10 @@ TBA
 
 ### Important Dates
 
+Please email your submissions and requests for further information to: [ampmworkshop@protonmail.com](mailto:ampmworkshop@protonmail.com)
+
 - Submission deadline: **12 November 2021** until 23:59,
 - Notification of acceptance: 17 November 2021,
 - Workshop: 8 December 2021.
+
+Registration can be done [here](https://jurix2021.mruni.eu/registration/). If your participation is virtual, please register as remote participants.
