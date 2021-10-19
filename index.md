@@ -22,7 +22,7 @@ The workshop aims to attract participants from various disciplines, and to be of
 
 ### Participation and Submission
 
-People interested in participating are requested to submit extended abstracts (500-1000 words, excluding references) before the 13th November 2021. Authors of the accepted abstracts presented at the workshop will be asked to extend their contributions to short papers (min 5 pages), integrating feedback and discussions for a second round of reviews, which will then be published as open-access workshop proceedings (whether OASIcs or CEUR TBD).
+People interested in participating are requested to submit *extended abstracts* (**500-1000 words**, excluding references) before the **13th November 2021**. Authors of the accepted abstracts presented at the workshop will be asked to extend their contributions to short papers (min 5 pages), integrating feedback and discussions for a second round of reviews, which will then be published as open-access workshop proceedings (whether OASIcs or CEUR TBD).
 
 ### Organizers
 
