@@ -1,6 +1,7 @@
 
 # AMPM 2021: First Workshop in Agent-based Modeling & Policy-Making 
-in conjunction with [JURIX 2021](https://jurix2021.mruni.eu/)
+in conjunction with [JURIX 2021](https://jurix2021.mruni.eu/), the 34th International Conference on Legal
+Knowledge and Information Systems.
 
 ### Motivation
 
