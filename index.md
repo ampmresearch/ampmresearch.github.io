@@ -19,7 +19,8 @@ ABM calls for a “computation-enhanced regulatory empiricism”, exploiting com
 ### Scope
 
 The workshop aims to attract participants from various disciplines, and to be of interest to anyone working with the domain of governance of large-scale self-adaptive systems (human, computational, or natural): policy-making, governance, (computational) social science, (computational) legal theory, (computational) economics, autonomic computing, regulatory design, distributed systems, agent-based modelling, and complexity science.
-Participation and Submission
+
+### Participation and Submission
 
 People interested in participating are requested to submit extended abstracts (500-1000 words, excluding references) before the 13th November 2021. Authors of the accepted abstracts presented at the workshop will be asked to extend their contributions to short papers (min 5 pages), integrating feedback and discussions for a second round of reviews, which will then be published as open-access workshop proceedings (whether OASIcs or CEUR TBD).
 
@@ -29,9 +30,8 @@ People interested in participating are requested to submit extended abstracts (5
 - Giovanni Sileno, Informatics Institute/University of Amsterdam
 - Nicola Lettieri, INAPP (National Institute for Public Policy Analysis), University of Sannio
 
+<img float="right" alt="IAS" src="https://pbs.twimg.com/profile_images/1234780957728788480/20Fuq6kP_400x400.jpg" width="80">
 with the kind support of IAS, the *Institute of Advanced Study* of the University of Amsterdam. 
-
-<img alt="IAS" src="https://pbs.twimg.com/profile_images/1234780957728788480/20Fuq6kP_400x400.jpg" width="80">
 
 ### Important Dates
 
