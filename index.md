@@ -1,6 +1,6 @@
 
 # AMPM 2021: First Workshop in Agent-based Modeling & Policy-Making 
-in conjunction with JURIX 2021 on December 8, 2021
+in conjunction with [JURIX 2021](https://jurix2021.mruni.eu/) on December 8, 2021
 
 ### Motivation
 
@@ -26,9 +26,9 @@ People interested in participating are requested to submit *extended abstracts* 
 
 ### Organizers
 
-- Christoph Becker, Institute of Advanced Study/University of Amsterdam
-- Giovanni Sileno, Informatics Institute/University of Amsterdam
-- Nicola Lettieri, INAPP (National Institute for Public Policy Analysis), University of Sannio
+- Christoph Becker, Institute of Advanced Study, University of Amsterdam
+- Giovanni Sileno, Informatics Institute, University of Amsterdam
+- Nicola Lettieri, INAPP (National Institute for Public Policy Analysis) and University of Sannio
 
 with the kind support of IAS, the *Institute of Advanced Study* of the University of Amsterdam. 
 
@@ -36,6 +36,6 @@ with the kind support of IAS, the *Institute of Advanced Study* of the Universit
 
 ### Important Dates
 
-- Submission deadline: **12 November 2020** until 23:59
-- Notification of acceptance: 17 November 2020
-- Workshop: 8 December 2020
+- Submission deadline: **12 November 2021** until 23:59
+- Notification of acceptance: 17 November 2021
+- Workshop: 8 December 2021
