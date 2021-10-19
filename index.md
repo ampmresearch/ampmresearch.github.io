@@ -1,5 +1,5 @@
 
-# 1st Workshop in Agent-based Modeling & Policy-Making (AMPM 2021) 
+# AMPM 2021: First Workshop in Agent-based Modeling & Policy-Making 
 in conjunction with JURIX 2021 on December 8, 2021
 
 ### Motivation
