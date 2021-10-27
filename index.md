@@ -47,7 +47,7 @@ with the support of IAS, the *Institute of Advanced Study* of the University of 
 - Vítor V. Vasconcelos, University of Amsterdam
 - Alex Schwartz, Hong Kong University
 - Alessandro Pluchino, University of Catania
-...   
+- TBA...   
 
 ### Important Dates
 
