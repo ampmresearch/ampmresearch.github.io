@@ -39,7 +39,15 @@ with the support of IAS, the *Institute of Advanced Study* of the University of 
 
 ### Program Committee
 
-TBA
+- Christopher Frantz, NTNU Norwegian University of Science and Technology,
+- Valentina Punzo, University of Palermo
+- Fernando P. Santos, University of Amsterdam
+- Sebastian Benthall, NSF National Science Foundation
+- Luigi Cominelli, University of Milan Law School
+- Vítor V. Vasconcelos, University of Amsterdam
+- Alex Schwartz, Hong Kong University
+- Alessandro Pluchino, University of Catania
+...   
 
 ### Important Dates
 
