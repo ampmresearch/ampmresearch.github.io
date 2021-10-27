@@ -40,7 +40,7 @@ with the support of IAS, the *Institute of Advanced Study* of the University of 
 ### Program Committee
 
 - Christopher Frantz, NTNU Norwegian University of Science and Technology,
-- Valentina Punzo, University of Palermo
+- Valentina Punzo, INAPP (National Institute for Public Policy Analysis)
 - Fernando P. Santos, University of Amsterdam
 - Sebastian Benthall, NSF National Science Foundation
 - Luigi Cominelli, University of Milan Law School
