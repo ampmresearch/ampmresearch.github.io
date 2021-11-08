@@ -51,8 +51,8 @@ with the support of IAS, the *Institute of Advanced Study* of the University of 
 
 ### Important Dates
 
-- Submission deadline: **12 November 2021** until 23:59,
-- Notification of acceptance: 17 November 2021,
+- Submission deadline: ~~12 November 2021~~ **19 November** until 23:59,
+- Notification of acceptance: ~~17~~ **24 November** November 2021,
 - Workshop: 8 December 2021.
 
 Registration via the main conference [https://jurix2021.mruni.eu/](https://jurix2021.mruni.eu/). If participation is virtual, you still need to register as remote participants.
