@@ -51,7 +51,7 @@ with the support of IAS, the *Institute of Advanced Study* of the University of 
 
 ### Important Dates
 
-- Submission deadline: ~~12 November 2021~~ **19 November** until 23:59,
+- Submission deadline: ~~12 November 2021~~ **19 November 2021** until 23:59,
 - Notification of acceptance: ~~17~~ **24 November** November 2021,
 - Workshop: 8 December 2021.
 
