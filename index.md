@@ -49,6 +49,10 @@ with the support of IAS, the *Institute of Advanced Study* of the University of 
 - Alessandro Pluchino, University of Catania
 - ...   
 
+### Keynote speaker
+
+- Bruce Edmonds, director of the Centre for Policy Modelling (http://cfpm.org/), Manchester Metropolitan University 
+
 ### Important Dates
 
 - Submission deadline: ~~12 November 2021~~ **19 November 2021** until 23:59,
