@@ -45,6 +45,7 @@ with the support of IAS, the *Institute of Advanced Study* of the University of 
 - Sebastian Benthall, NSF National Science Foundation
 - Luigi Cominelli, University of Milan Law School
 - Vítor V. Vasconcelos, University of Amsterdam
+- Flaminio Squazzoni, University of Milan
 - Alex Schwartz, Hong Kong University
 - Alessandro Pluchino, University of Catania
 - ...   
