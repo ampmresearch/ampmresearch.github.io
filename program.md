@@ -5,23 +5,17 @@ in conjunction with [JURIX 2021](https://jurix2021.mruni.eu/), the 34th Internat
 Knowledge and Information Systems, Vilnius, Lithuania
 December 8, 2021 (virtual conference).
 
-## Program
+### Opening & Keynote
 
 *12:30 - 12:45* (CET 11:30 - 11:45, UTC 10:30 - 10:45)
 
 - *Introduction*
 
-### Keynote Speech
-
 *12:45 - 13:30* (CET 11:45 - 12:30, UTC 10:45 - 11:30) 
 
 - **Bruce Edmonds**, *Understanding social norms: a multi-level, policy modelling approach*
 
------
-
 10 min pause
-
------
 
 ### Session 1 - Contexts and topics 
 
@@ -32,11 +26,7 @@ December 8, 2021 (virtual conference).
 - **Margherita Vestoso** and **Ilaria Cecere**. *Exploring the boundaries between law, ABM and policy-making: on the clash between formal and informal norms*
 - **Sebastian Benthall**, **Joshua Epstein**, **Erez Hatna**, **Katherine Strandburg** and **Michael Tschantz**. *Towards Regulatory Design with Agent-Based Modeling at the Boundary of Law and Software*
 
------
-
 10 min pause
-
------
 
 ### Session 2 - Models 
 
@@ -47,11 +37,7 @@ December 8, 2021 (virtual conference).
 - **Laura Mazzarino**, **Alessio Emanuele Biondo** and **Damiano Rossello**. *Portfolio Optimization and Trading Strategies: a simulation approach*
 - **Jan de Mooij**, **Davide Dell'Anna**, **Parantapa Bhattacharya**, **Mehdi Dastani**, **Brian Logan** and **Samarth Swarup**. *Using Agent-Based Simulation to Investigate Behavioural Interventions in a Pandemic using Mobility Data*
 
------
-
 10 min pause
-
------
 
 ### Session 3 - Methods and technologies 
 
