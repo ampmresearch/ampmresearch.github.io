@@ -8,7 +8,7 @@ Knowledge and Information Systems, Vilnius, Lithuania
 
 - Workshop date: December 8, 2021 
 - Venue: [virtual](https://uva-live.zoom.us/j/85854153566?pwd=cVIwR0dYU1k1RTZBZkI2d2l1Rks2dz09) (Zoom Meeting ID: 858 5415 3566, Passcode: AMPM01)
-- [Code of conduct](https://confcodeofconduct.com/)
+- [Code of conduct](https://github.com/ampmresearch/ampmresearch.github.io/blob/main/code_of_conduct.md)
 - Contact: [ampm2021@easychair.org](mailto:ampm2021@easychair.org)
 
 ### Opening & Keynote Speech
