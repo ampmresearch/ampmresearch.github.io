@@ -5,11 +5,13 @@ in conjunction with [JURIX 2021](https://jurix2021.mruni.eu/), the 34th Internat
 Knowledge and Information Systems, Vilnius, Lithuania
 December 8, 2021 (virtual conference).
 
-### Program
+## Program
 
 *12:30 - 12:45* (CET 11:30 - 11:45, UTC 10:30 - 10:45)
 
-Introduction: 15 min
+- *Introduction*
+
+### Keynote Speech
 
 *12:45 - 13:30* (CET 11:45 - 12:30, UTC 10:45 - 11:30) 
 
@@ -21,9 +23,9 @@ Introduction: 15 min
 
 -----
 
-*13:40 - 14:40* (CET 12:40 - 13:40, UTC 11:40 - 12:40)
+### Session 1 - Contexts and topics 
 
-Session 1 - Contexts and topics 
+*13:40 - 14:40* (CET 12:40 - 13:40, UTC 11:40 - 12:40)
 
 - **Katharina Luckner** and **Veronika Fikfak**. *Why the Study of International Law Needs Agent-based Modeling: The Case of Compliance
 - **Valentina Punzo**. Dissecting crime through ABM. *From theory testing to policy design*
@@ -36,9 +38,9 @@ Session 1 - Contexts and topics
 
 -----
 
-*14:50 - 15:50* (CET 13:50 - 14:50, UTC 12:50 - 13:50)
+### Session 2 - Models 
 
-Session 2 - Models
+*14:50 - 15:50* (CET 13:50 - 14:50, UTC 12:50 - 13:50)
 
 - **Gido Schoenmacker**, **Wander Jager** and **Rineke Verbrugge**. *Empirically grounded agent-based policy evaluation of the adoption of sustainable lighting under the European Ecodesign Directive*
 - **Martina Fazio**, **Alessandro Pluchino**, **Giuseppe Inturri**, **Michela Le Pira**, **Nadia Giuffrida** and **Matteo Ignaccolo**. *Agent-Based Modelling of Mobility Restrictions at a Large Scale: Exploring the Impact on the COVID-19 Spreading in Italy*
@@ -51,9 +53,9 @@ Session 2 - Models
 
 -----
 
-*16:00 - 16:45* (CET 15:00 - 15:45, UTC 14:00 - 14:45)
+### Session 3 - Methods and technologies 
 
-Session 3 - Methods and technologies
+*16:00 - 16:45* (CET 15:00 - 15:45, UTC 14:00 - 14:45)
 
 - **Etienne Houzé**, **Ada Diaconescu** and **Jean-Louis Dessalles**. *Using Decentralised Conflict-Abduction-Negation in Policy-making*
 - **Alejandro Morales**. *Self-optimization for transdisciplinary intervention*
@@ -61,5 +63,5 @@ Session 3 - Methods and technologies
 
 *16:45 - 17:15* (CET 15:45 - 16:15, UTC 14:45 - 15:15)   
 
-- Wrap-up, open community discussion
+- *Wrap-up*, *open community discussion*
 
