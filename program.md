@@ -9,12 +9,9 @@ December 8, 2021 (virtual conference).
 
 ### Opening & Keynote Speech
 
-*12:30 - 12:45* (CET 11:30 - 11:45, UTC 10:30 - 10:45)
+*12:30 - 13:30* (CET 11:30 - 12:30, UTC 10:30 - 11:30)
 
-- *Introduction*
-
-*12:45 - 13:30* (CET 11:45 - 12:30, UTC 10:45 - 11:30) 
-
+- *Introduction* (15min)
 - **Bruce Edmonds**, *Understanding social norms: a multi-level, policy modelling approach*
 
 10 min pause
@@ -48,6 +45,8 @@ December 8, 2021 (virtual conference).
 - **Etienne Houzé**, **Ada Diaconescu** and **Jean-Louis Dessalles**. *Using Decentralised Conflict-Abduction-Negation in Policy-making*
 - **Alejandro Morales**. *Self-optimization for transdisciplinary intervention*
 - **Ada Diaconescu**, **Dominique Blouin** and **Alice Ludvig**. *Multi-paradigm Modelling for Policy-driven Socio-technical Systems*
+
+### Closing
 
 *16:45 - 17:15* (CET 15:45 - 16:15, UTC 14:45 - 15:15)   
 
