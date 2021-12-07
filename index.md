@@ -5,6 +5,8 @@ in conjunction with [JURIX 2021](https://jurix2021.mruni.eu/), the 34th Internat
 Knowledge and Information Systems, Vilnius, Lithuania
 December 8-10, 2021 (hybrid conference).
 
+UPDATE: [**Program & Info**](https://ampmresearch.github.io/program)
+
 ### Motivation
 
 Global financial and economic crises, critical technological dependencies, pandemics, and climate change have cast serious doubts on the adequacy of conventional policymaking to consider mechanisms underlying social and economic phenomena, as well as to provide effective policy prescriptions. Computational models are increasingly being used to guide decisions by studying their potential consequences prior to making them. From their original application in engineering and science, computational models have become a tool for evidence-based policy-making in a diverse set of contexts: public health, ecology, labour markets, urban planning, social security, crime mitigation, economic development, platform economy and techno-regulation. Motivated by their widespread deployment, work on using computational models beyond executive policies and towards law-making — i.e. beyond operational guidance and towards regulation, circumscribing the space in which policies can operate — is gaining momentum.
