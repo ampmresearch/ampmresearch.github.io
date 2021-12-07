@@ -1,4 +1,4 @@
-[<img alt="AMPM logo" src="https://polder.center/wp-content/uploads/2021/10/AMPM-2021.png">]
+<img alt="AMPM logo" src="https://polder.center/wp-content/uploads/2021/10/AMPM-2021.png">
 
 # AMPM 2021: First Workshop in Agent-based Modeling & Policy-Making 
 in conjunction with [JURIX 2021](https://jurix2021.mruni.eu/), the 34th International Conference on Legal
@@ -7,10 +7,12 @@ December 8, 2021 (virtual conference).
 
 ### Program
 
-*12:30 - 12:45* (CET 11:30 - 11:45, UTC 10:30 - 10:45) 
+*12:30 - 12:45* (CET 11:30 - 11:45, UTC 10:30 - 10:45)
+
 Introduction: 15 min
 
 *12:45 - 13:30* (CET 11:45 - 12:30, UTC 10:45 - 11:30) 
+
 Keynote speech: 30min + 15min questions
 
 **Bruce Edmonds**, Centre for Policy Modelling, Manchester Metropolitan University
