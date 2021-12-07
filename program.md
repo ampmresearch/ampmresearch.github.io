@@ -5,7 +5,9 @@ in conjunction with [JURIX 2021](https://jurix2021.mruni.eu/), the 34th Internat
 Knowledge and Information Systems, Vilnius, Lithuania
 December 8, 2021 (virtual conference).
 
-### Opening & Keynote
+**Program**
+
+### Opening & Keynote Speech
 
 *12:30 - 12:45* (CET 11:30 - 11:45, UTC 10:30 - 10:45)
 
@@ -17,7 +19,7 @@ December 8, 2021 (virtual conference).
 
 10 min pause
 
-### Session 1 - Contexts and topics 
+### Session 1 - Contexts and Topics 
 
 *13:40 - 14:40* (CET 12:40 - 13:40, UTC 11:40 - 12:40)
 
@@ -39,7 +41,7 @@ December 8, 2021 (virtual conference).
 
 10 min pause
 
-### Session 3 - Methods and technologies 
+### Session 3 - Methods and Technologies 
 
 *16:00 - 16:45* (CET 15:00 - 15:45, UTC 14:00 - 14:45)
 
