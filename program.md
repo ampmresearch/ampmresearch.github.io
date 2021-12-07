@@ -1,11 +1,13 @@
 <img alt="AMPM logo" src="https://polder.center/wp-content/uploads/2021/10/AMPM-2021.png">
 
-# AMPM 2021: First Workshop in Agent-based Modeling & Policy-Making 
+# Program
+
+**AMPM 2021: First Workshop in Agent-based Modeling & Policy-Making** 
 in conjunction with [JURIX 2021](https://jurix2021.mruni.eu/), the 34th International Conference on Legal
 Knowledge and Information Systems, Vilnius, Lithuania
-December 8, 2021 (virtual conference).
 
-**Program**
+- Workshop date: December 8, 2021 
+- Venue: virtual (Zoom Meeting ID: 858 5415 3566, Passcode: AMPM01)
 
 ### Opening & Keynote Speech
 
