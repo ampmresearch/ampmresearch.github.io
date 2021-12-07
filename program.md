@@ -7,7 +7,9 @@ in conjunction with [JURIX 2021](https://jurix2021.mruni.eu/), the 34th Internat
 Knowledge and Information Systems, Vilnius, Lithuania
 
 - Workshop date: December 8, 2021 
-- Venue: virtual (Zoom Meeting ID: 858 5415 3566, Passcode: AMPM01)
+- Venue: [virtual](https://uva-live.zoom.us/j/85854153566?pwd=cVIwR0dYU1k1RTZBZkI2d2l1Rks2dz09) (Zoom Meeting ID: 858 5415 3566, Passcode: AMPM01)
+- [Code of conduct](https://confcodeofconduct.com/)
+- Contact: ampm2021@easychair.org
 
 ### Opening & Keynote Speech
 
