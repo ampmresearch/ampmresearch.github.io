@@ -26,8 +26,8 @@ Knowledge and Information Systems, Vilnius, Lithuania
 
 - **Katharina Luckner** and **Veronika Fikfak**. *Why the Study of International Law Needs Agent-based Modeling: The Case of Compliance*
 - **Valentina Punzo**. Dissecting crime through ABM. *From theory testing to policy design*
-- **Margherita Vestoso** and **Ilaria Cecere**. *Exploring the boundaries between law, ABM and policy-making: on the clash between formal and informal norms*
-- **Sebastian Benthall**, **Joshua Epstein**, **Erez Hatna**, **Katherine Strandburg** and **Michael Tschantz**. *Towards Regulatory Design with Agent-Based Modeling at the Boundary of Law and Software*
+- **Margherita Vestoso** and **Ilaria Cecere**. *Exploring the boundaries between law, ABM and policy-making: on the clash between formal and informal norms**; [presentation](https://github.com/ampmresearch/ampmresearch.github.io/blob/main/presentations/16_MVestoso.pdf)
+- **Sebastian Benthall**, **Joshua Epstein**, **Erez Hatna**, **Katherine Strandburg** and **Michael Tschantz**. *Towards Regulatory Design with Agent-Based Modeling at the Boundary of Law and Software**; [presentation](https://github.com/ampmresearch/ampmresearch.github.io/blob/main/presentations/10_SBenthall.pdf)
 
 10 min pause
 
@@ -35,10 +35,10 @@ Knowledge and Information Systems, Vilnius, Lithuania
 
 *14:50 - 15:50* (CET 13:50 - 14:50, UTC 12:50 - 13:50)
 
-- **Gido Schoenmacker**, **Wander Jager** and **Rineke Verbrugge**. *Empirically grounded agent-based policy evaluation of the adoption of sustainable lighting under the European Ecodesign Directive*
-- **Martina Fazio**, **Alessandro Pluchino**, **Giuseppe Inturri**, **Michela Le Pira**, **Nadia Giuffrida** and **Matteo Ignaccolo**. *Agent-Based Modelling of Mobility Restrictions at a Large Scale: Exploring the Impact on the COVID-19 Spreading in Italy*
-- **Laura Mazzarino**, **Alessio Emanuele Biondo** and **Damiano Rossello**. *Portfolio Optimization and Trading Strategies: a simulation approach*
-- **Jan de Mooij**, **Davide Dell'Anna**, **Parantapa Bhattacharya**, **Mehdi Dastani**, **Brian Logan** and **Samarth Swarup**. *Using Agent-Based Simulation to Investigate Behavioural Interventions in a Pandemic using Mobility Data*
+- **Gido Schoenmacker**, **Wander Jager** and **Rineke Verbrugge**. *Empirically grounded agent-based policy evaluation of the adoption of sustainable lighting under the European Ecodesign Directive**; [presentation](https://github.com/ampmresearch/ampmresearch.github.io/blob/main/presentations/13_GSchoenmaker.pdf)
+- **Martina Fazio**, **Alessandro Pluchino**, **Giuseppe Inturri**, **Michela Le Pira**, **Nadia Giuffrida** and **Matteo Ignaccolo**. *Agent-Based Modelling of Mobility Restrictions at a Large Scale: Exploring the Impact on the COVID-19 Spreading in Italy**; [presentation](https://github.com/ampmresearch/ampmresearch.github.io/blob/main/presentations/9_12_MFazio.pdf)
+- **Laura Mazzarino**, **Alessio Emanuele Biondo** and **Damiano Rossello**. *Portfolio Optimization and Trading Strategies: a simulation approach**; [presentation](https://github.com/ampmresearch/ampmresearch.github.io/blob/main/presentations/8_LMazzarino.pdf)
+- **Jan de Mooij**, **Davide Dell'Anna**, **Parantapa Bhattacharya**, **Mehdi Dastani**, **Brian Logan** and **Samarth Swarup**. *Using Agent-Based Simulation to Investigate Behavioural Interventions in a Pandemic using Mobility Data**; [presentation](https://github.com/ampmresearch/ampmresearch.github.io/blob/main/presentations/7_JdeMooij.pdf)
 
 10 min pause
 
@@ -48,7 +48,7 @@ Knowledge and Information Systems, Vilnius, Lithuania
 
 - **Etienne Houzé**, **Ada Diaconescu** and **Jean-Louis Dessalles**. *Using Decentralised Conflict-Abduction-Negation in Policy-making*
 - **Alejandro Morales**. *Self-optimization for transdisciplinary intervention*
-- **Ada Diaconescu**, **Dominique Blouin** and **Alice Ludvig**. *Multi-paradigm Modelling for Policy-driven Socio-technical Systems*
+- **Ada Diaconescu**, **Dominique Blouin** and **Alice Ludvig**. *Multi-paradigm Modelling for Policy-driven Socio-technical Systems**; [presentation](https://github.com/ampmresearch/ampmresearch.github.io/blob/main/presentations/15_ADiaconescu.pdf)
 
 ### Closing
 
