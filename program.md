@@ -46,7 +46,7 @@ Knowledge and Information Systems, Vilnius, Lithuania
 
 *16:00 - 16:45* (CET 15:00 - 15:45, UTC 14:00 - 14:45)
 
-- **Etienne Houzé**, **Ada Diaconescu** and **Jean-Louis Dessalles**. *Using Decentralised Conflict-Abduction-Negation in Policy-making*
+- **Etienne Houzé**, **Ada Diaconescu** and **Jean-Louis Dessalles**. *Using Decentralised Conflict-Abduction-Negation in Policy-making*; [presentation](https://github.com/ampmresearch/ampmresearch.github.io/blob/main/presentations/6_EHouze.pdf)
 - **Alejandro Morales**. *Self-optimization for transdisciplinary intervention*
 - **Ada Diaconescu**, **Dominique Blouin** and **Alice Ludvig**. *Multi-paradigm Modelling for Policy-driven Socio-technical Systems**; [presentation](https://github.com/ampmresearch/ampmresearch.github.io/blob/main/presentations/15_ADiaconescu.pdf)
 
