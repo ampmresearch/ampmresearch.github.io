@@ -5,7 +5,8 @@ in conjunction with [JURIX 2021](https://jurix2021.mruni.eu/), the 34th Internat
 Knowledge and Information Systems, Vilnius, Lithuania
 December 8-10, 2021 (hybrid conference).
 
-UPDATE: [**Program & Info**](https://ampmresearch.github.io/program)
+**Venue**: [Zoom room](https://uva-live.zoom.us/j/85854153566?pwd=cVIwR0dYU1k1RTZBZkI2d2l1Rks2dz09) (Zoom Meeting ID: 858 5415 3566, Passcode: AMPM01)
+[**Program**](https://ampmresearch.github.io/program)
 
 ### Motivation
 
