@@ -6,8 +6,8 @@ Knowledge and Information Systems, Vilnius, Lithuania
 
 **Program** 
 
-- Workshop date: December 8, 2021 
-- Venue: [virtual](https://uva-live.zoom.us/j/85854153566?pwd=cVIwR0dYU1k1RTZBZkI2d2l1Rks2dz09) (Zoom Meeting ID: 858 5415 3566, Passcode: AMPM01)
+- Date: December 8, 2021 
+- Venue: [**Zoom room**](https://uva-live.zoom.us/j/85854153566?pwd=cVIwR0dYU1k1RTZBZkI2d2l1Rks2dz09) (Zoom Meeting ID: 858 5415 3566, Passcode: AMPM01)
 - [Code of conduct](https://github.com/ampmresearch/ampmresearch.github.io/blob/main/code_of_conduct.md)
 - Contact: [ampm2021@easychair.org](mailto:ampm2021@easychair.org)
 
@@ -24,7 +24,7 @@ Knowledge and Information Systems, Vilnius, Lithuania
 
 *13:40 - 14:40* (CET 12:40 - 13:40, UTC 11:40 - 12:40)
 
-- **Katharina Luckner** and **Veronika Fikfak**. *Why the Study of International Law Needs Agent-based Modeling: The Case of Compliance
+- **Katharina Luckner** and **Veronika Fikfak**. *Why the Study of International Law Needs Agent-based Modeling: The Case of Compliance*
 - **Valentina Punzo**. Dissecting crime through ABM. *From theory testing to policy design*
 - **Margherita Vestoso** and **Ilaria Cecere**. *Exploring the boundaries between law, ABM and policy-making: on the clash between formal and informal norms*
 - **Sebastian Benthall**, **Joshua Epstein**, **Erez Hatna**, **Katherine Strandburg** and **Michael Tschantz**. *Towards Regulatory Design with Agent-Based Modeling at the Boundary of Law and Software*
