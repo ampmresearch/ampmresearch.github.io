@@ -25,7 +25,7 @@ Knowledge and Information Systems, Vilnius, Lithuania
 *13:40 - 14:40* (CET 12:40 - 13:40, UTC 11:40 - 12:40)
 
 - **Katharina Luckner** and **Veronika Fikfak**. *Why the Study of International Law Needs Agent-based Modeling: The Case of Compliance*
-- **Valentina Punzo**. Dissecting crime through ABM. *From theory testing to policy design*
+- **Valentina Punzo**. Dissecting crime through ABM. *From theory testing to policy design*; [presentation](https://github.com/ampmresearch/ampmresearch.github.io/blob/main/presentations/14_VPunzo.pdf)
 - **Margherita Vestoso** and **Ilaria Cecere**. *Exploring the boundaries between law, ABM and policy-making: on the clash between formal and informal norms**; [presentation](https://github.com/ampmresearch/ampmresearch.github.io/blob/main/presentations/16_MVestoso.pdf)
 - **Sebastian Benthall**, **Joshua Epstein**, **Erez Hatna**, **Katherine Strandburg** and **Michael Tschantz**. *Towards Regulatory Design with Agent-Based Modeling at the Boundary of Law and Software**; [presentation](https://github.com/ampmresearch/ampmresearch.github.io/blob/main/presentations/10_SBenthall.pdf)
 
