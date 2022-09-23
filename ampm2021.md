@@ -7,8 +7,8 @@ December 8-10, 2021 (hybrid conference).
 
 **Venue**: Zoom room (expired)
 
-[**Program**](https://ampmresearch.github.io/ampm2021-program)
-[**Post-proceedings**](http://ceur-ws.org/Vol-3182/)
+- [**Final Program**](https://ampmresearch.github.io/ampm2021-program)
+- [**Post-proceedings**](http://ceur-ws.org/Vol-3182/)
 
 ### Motivation
 
