@@ -5,9 +5,10 @@ in conjunction with [JURIX 2021](https://jurix2021.mruni.eu/), the 34th Internat
 Knowledge and Information Systems, Vilnius, Lithuania
 December 8-10, 2021 (hybrid conference).
 
-**Venue**: [Zoom room](https://uva-live.zoom.us/j/85854153566?pwd=cVIwR0dYU1k1RTZBZkI2d2l1Rks2dz09) (Zoom Meeting ID: 858 5415 3566, Passcode: AMPM01)
+**Venue**: Zoom room (expired)
 
-[**Program**](https://ampmresearch.github.io/program)
+[**Program**](https://ampmresearch.github.io/ampm2021-program)
+[**Post-proceedings**](http://ceur-ws.org/Vol-3182/)
 
 ### Motivation
 
@@ -37,9 +38,13 @@ People interested in participating are requested to submit extended abstracts (*
 - Giovanni Sileno, Informatics Institute, University of Amsterdam,
 - Nicola Lettieri, INAPP (National Institute for Public Policy Analysis) and University of Sannio.
 
-with the support of IAS, the *Institute of Advanced Study* of the University of Amsterdam. 
+with the support of IAS, the *Institute of Advanced Study* of the University of Amsterdam.
 
 <img alt="IAS UvA logo" src="https://pbs.twimg.com/profile_images/1234780957728788480/20Fuq6kP_400x400.jpg" width="80">
+
+Post-proceedings published as CEUR Workshop Proceedings (CEUR-WS.org)
+
+<a href="http://ceur-ws.org/Vol-3182/"><img alt="CEUR-WS logo" src="http://ceur-ws.org/CEUR-WS-logo-blue.png"></a>
 
 ### Program Committee
 
