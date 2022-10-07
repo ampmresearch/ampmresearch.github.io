@@ -1,14 +1,8 @@
-[<img alt="AMPM logo" src="https://polder.center/wp-content/uploads/2021/10/AMPM-2021.png">](https://polder.center/2021/10/18/1st-workshop-in-agent-based-modeling-policy-making-ampm-2021-jurix-2021/)
+<img alt="AMPM logo">
 
-# AMPM 2021: First Workshop in Agent-based Modeling & Policy-Making 
-in conjunction with [JURIX 2021](https://jurix2021.mruni.eu/), the 34th International Conference on Legal
-Knowledge and Information Systems, Vilnius, Lithuania
-December 8-10, 2021 (hybrid conference).
-
-**Venue**: Zoom room (expired)
-
-- [**Final Program**](https://ampmresearch.github.io/ampm2021-program)
-- [**Post-proceedings**](http://ceur-ws.org/Vol-3182/)
+# AMPM 2022: Second Workshop in Agent-based Modeling & Policy-Making 
+in conjunction with [JURIX 2022](https://jurix2022.rechtsinformatik.saarland/), the 35th International Conference on Legal Knowledge and Information Systems
+December 14-16, 2022, Saarbrücken, Germany
 
 ### Motivation
 
@@ -26,47 +20,30 @@ ABM calls for a “computation-enhanced regulatory empiricism”, exploiting com
 
 ### Scope
 
-The workshop aims to attract participants from various disciplines, and to be of interest to anyone working with the domain of governance of large-scale self-adaptive systems (human, computational, or natural): policy-making, governance, (computational) social science, (computational) legal theory, (computational) economics, autonomic computing, regulatory design, distributed systems, agent-based modelling, and complexity science.
+The workshop aims to attract participants from various disciplines, and to be of interest to anyone working with the domain of governance of large-scale self-adaptive systems (human, computational, or natural): policy-making and normative design, governance, (computational) social science, (computational) legal theory, (computational) economics, autonomic computing, techno-regulation, distributed systems, agent-based modelling, and complexity science.
 
 ### Participation and Submission
 
-People interested in participating are requested to submit extended abstracts (**500-1000** words, excluding references) until the ~~12th~~ **19th November 2021** via easychair: [https://easychair.org/conferences/?conf=ampm2021](https://easychair.org/conferences/?conf=ampm2021). Authors of the accepted abstracts presented at the workshop will be asked to extend their contributions to short papers (min 5 pages), integrating feedback and discussions for a second round of reviews, which will then be published as open-access CEUR workshop proceedings.
+People interested in participating are requested to submit short (max 6) or long papers (max 10 pages) in LNCS format before the *4th November 2022* via easychair: [https://easychair.org/conferences/?conf=ampm2022](https://easychair.org/conferences/?conf=ampm2022). Authors of the accepted papers will present at the workshop. Presented papers can be accepted or conditionally accepted for publication in the open-access CEUR workshop post-proceedings, after a second round of reviews to ensure that feedback and discussions had during the workshop have been adequately integrated.
 
 ### Organizers
 
-- Christoph Becker, Institute of Advanced Study, University of Amsterdam,
 - Giovanni Sileno, Informatics Institute, University of Amsterdam,
+- Christoph Becker, Institute of Advanced Study, University of Amsterdam,
 - Nicola Lettieri, INAPP (National Institute for Public Policy Analysis) and University of Sannio.
-
-with the support of IAS, the *Institute of Advanced Study* of the University of Amsterdam.
-
-<img alt="IAS UvA logo" src="https://pbs.twimg.com/profile_images/1234780957728788480/20Fuq6kP_400x400.jpg" width="80">
-
-Post-proceedings published as CEUR Workshop Proceedings (CEUR-WS.org)
-
-<a href="http://ceur-ws.org/Vol-3182/"><img alt="CEUR-WS logo" src="http://ceur-ws.org/CEUR-WS-logo-blue.png"></a>
 
 ### Program Committee
 
-- Christopher Frantz, NTNU Norwegian University of Science and Technology,
-- Valentina Punzo, INAPP (National Institute for Public Policy Analysis)
-- Fernando P. Santos, University of Amsterdam
-- Sebastian Benthall, NSF National Science Foundation
-- Luigi Cominelli, University of Milan Law School
-- Vítor V. Vasconcelos, University of Amsterdam
-- Flaminio Squazzoni, University of Milan
-- Alex Schwartz, Hong Kong University
-- Alessandro Pluchino, University of Catania
-- ...   
+TBA
 
 ### Keynote speaker
 
-- Bruce Edmonds, director of the Centre for Policy Modelling [https://cfpm.org/](https://cfpm.org/), Manchester Metropolitan University 
+TBA
 
 ### Important Dates
 
-- Submission deadline: ~~12 November 2021~~ **19 November 2021** until 23:59,
-- Notification of acceptance: ~~17~~ **24 November** November 2021,
-- Workshop: 8 December 2021.
+- Submission deadline: *4 November 2022** until 23:59,
+- Notification of acceptance: *18 November 2022
+- Workshop: 14 December 2022 (hybrid).
 
-Registration via the main conference [https://jurix2021.mruni.eu/](https://jurix2021.mruni.eu/). If participation is virtual, you still need to register as remote participants.
+Registration via the main conference [https://jurix2022.rechtsinformatik.saarland/](https://jurix2022.rechtsinformatik.saarland/). If your participation is remote, you still need to register as remote participants.
