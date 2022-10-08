@@ -25,7 +25,7 @@ The workshop aims to attract participants from various disciplines, and to be of
 
 ### Participation and Submission
 
-People interested in participating are requested to submit short (max 6 pages) or long papers (max 10 pages) before the *November 4th 2022* via easychair: [https://easychair.org/conferences/?conf=ampm2022](https://easychair.org/conferences/?conf=ampm2022). Please use the CEURART 1-col style ([LaTeX](http://ceur-ws.org/Vol-XXX/CEURART.zip), [Overleaf](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk), [DOCX][http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx], [ODT][http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.odt]) to preparre your submission.
+People interested in participating are requested to submit short (max 6 pages) or long papers (max 10 pages) before the *November 4th 2022* via easychair: [https://easychair.org/conferences/?conf=ampm2022](https://easychair.org/conferences/?conf=ampm2022). Please use the CEURART 1-col style ([LaTeX](http://ceur-ws.org/Vol-XXX/CEURART.zip), [Overleaf](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk), [DOCX](http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx), [ODT](http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.odt) to prepare your submission.
 
 Authors of the accepted papers will present at the workshop. Presented papers can then be accepted or conditionally accepted for publication in the open-access CEUR workshop post-proceedings. A second round of reviews will be conducted on the camera-ready version to support that feedback and discussions are adequately integrated.
 
