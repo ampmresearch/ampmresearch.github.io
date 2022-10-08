@@ -17,7 +17,13 @@ A crucial integrating role can be played by agent-based modelling (ABM). Based o
 
 ### Topics
 
-The question this workshop aims to bring to the foreground is what are the possible intersections between ABM (methods and tools) and policy-making, taking particularly into account normative standpoints and concerns (law-making, norm emergence, norm operationalization, ...), and the corresponding computational challenges. In perspective, the workshop creates space for the ABM call for a “computation-enhanced regulatory empiricism”, exploiting computation to investigate factual underpinnings of the legal phenomenon, like the intricate networks of cognitive, social, technological, and legal mechanisms through which law emerges, is applied, and exerts its effects.
+AMPM is envisioned to be complementary to the traditional scope of computational social science, complex system research, and agent-based modeling, focusing on three main tracks: 
+
+- models/theories going beyond policies, targeting normative and cognitive phenomena; 
+- empirical methods, associated with the practice of ABM in policy and norm-making contexts; 
+- better, dedicated tooling, such as computational methods, languages, and interfaces.
+
+In perspective, the workshop creates space for the ABM call for a “computation-enhanced regulatory empiricism”, exploiting computation to investigate factual underpinnings of the legal phenomenon, like the intricate networks of cognitive, social, technological, and legal mechanisms through which law emerges, is applied, and exerts its effects.
 
 ### Scope
 
@@ -25,7 +31,7 @@ The workshop aims to attract participants from various disciplines, and to be of
 
 ### Participation and Submission
 
-People interested in participating are requested to submit short (max 6 pages) or long papers (max 10 pages) before the *November 4th 2022* via easychair: [https://easychair.org/conferences/?conf=ampm2022](https://easychair.org/conferences/?conf=ampm2022). Please use the CEURART 1-col style to prepare your submission ([LaTeX](http://ceur-ws.org/Vol-XXX/CEURART.zip), [Overleaf](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk), [DOCX](http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx), [ODT](http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.odt)).
+People interested in participating are requested to submit short (max 6 pages) or long papers (max 10 pages) before the *November 4th 2022* via easychair: [https://easychair.org/conferences/?conf=ampm2022](https://easychair.org/conferences/?conf=ampm2022). Please use the CEURART 1-col style to prepare your submission ([LaTeX](http://ceur-ws.org/Vol-XXX/CEURART.zip), [Overleaf](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk), [DOCX](http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx), [ODT](http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.odt)). The typical submission for AMPM would be a reduced but self-complete and convincing version of a study (model, method, tool, theory, ..) -- ongoing work to be later submitted to larger venues as AAMAS or similar --, or an innovative/provocative position paper, or a sound research stub with respect to the challenges expressed above.
 
 Authors of the accepted papers will present at the workshop. Presented papers can then be accepted or conditionally accepted for publication in the open-access CEUR workshop post-proceedings. A second round of reviews will be conducted on the camera-ready version to support that feedback and discussions are adequately integrated.
 
