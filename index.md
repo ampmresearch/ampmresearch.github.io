@@ -3,8 +3,8 @@
 # AMPM 2022: 2nd Workshop in Agent-based Modeling & Policy-Making 
 in conjunction with [JURIX 2022](https://jurix2022.rechtsinformatik.saarland/), the 35th International Conference on Legal Knowledge and Information Systems (the workshop will be conducted as a hybrid event).
 
-- December 14th, 2022, Saarbrücken, Germany
-- Deadline for submission: November 4th, 2022
+- Workshop date: December 14th, 2022, Saarbrücken, Germany
+- Deadline for submission: **November 4th, 2022**
 
 ### Motivation
 
