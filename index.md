@@ -1,9 +1,10 @@
 <img src="https://polder.center/wp-content/uploads/2021/10/AMPM-2021.png" alt="AMPM logo">
 
 # AMPM 2022: 2nd Workshop in Agent-based Modeling & Policy-Making 
-in conjunction with [JURIX 2022](https://jurix2022.rechtsinformatik.saarland/), the 35th International Conference on Legal Knowledge and Information Systems 
+in conjunction with [JURIX 2022](https://jurix2022.rechtsinformatik.saarland/), the 35th International Conference on Legal Knowledge and Information Systems. 
 
 December 14th, 2022, Saarbrücken, Germany
+(the workshop will be held as a hybrid event with support for remote participation)
 
 ### Motivation
 
@@ -25,13 +26,15 @@ The workshop aims to attract participants from various disciplines, and to be of
 
 ### Participation and Submission
 
-People interested in participating are requested to submit short (max 6) or long papers (max 10 pages) in LNCS format before the *4th November 2022* via easychair: [https://easychair.org/conferences/?conf=ampm2022](https://easychair.org/conferences/?conf=ampm2022). Authors of the accepted papers will present at the workshop. Presented papers can be accepted or conditionally accepted for publication in the open-access CEUR workshop post-proceedings, after a second round of reviews to ensure that feedback and discussions had during the workshop have been adequately integrated.
+People interested in participating are requested to submit short (max 6 pages) or long papers (max 10 pages) before the *4th November 2022* via easychair: [https://easychair.org/conferences/?conf=ampm2022](https://easychair.org/conferences/?conf=ampm2022). Please use the CEURART 1-col style ([LaTeX](http://ceur-ws.org/Vol-XXX/CEURART.zip), [Overleaf](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk), [DOCX][http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx], [ODT][http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.odt]) to preparre your submission.
+
+Authors of the accepted papers will present at the workshop. Presented papers can then be accepted or conditionally accepted for publication in the open-access CEUR workshop post-proceedings. A second round of reviews will be conducted to support that feedback and discussions held during the workshop are adequately integrated.
 
 ### Organizers
 
-- Giovanni Sileno, Informatics Institute, University of Amsterdam,
-- Christoph Becker, Institute of Advanced Study, University of Amsterdam,
-- Nicola Lettieri, INAPP (National Institute for Public Policy Analysis) and University of Sannio.
+- Giovanni Sileno, Informatics Institute, University of Amsterdam, the Netherlands
+- Christoph Becker, Flemish Institute for Technological Research (VITO), Antwerp, Belgium
+- Nicola Lettieri, INAPP (National Institute for Public Policy Analysis) and University of Sannio, Italy
 
 ### Program Committee
 
