@@ -57,7 +57,9 @@ Authors of the accepted papers will present at the workshop. Presented papers ca
 - Nadia	Giuffrida, Polytechnic University of Bari
 - Parantapa Bhattacharya, Biocomplexity Institute & Initiative, University of Virginia
 - Isaak	Mengesha, University of Amsterdam
+- Michael Carl Tschantz, International Computer Science Institute (ICSI), Berkeley
 - Alessandro Pluchino, University of Catania
+- Wander Jager, University of Groningen
 - Mostafa Mohajeri Parizi, University of Amsterdam
 - ...
 
