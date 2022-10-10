@@ -37,7 +37,7 @@ Authors of the accepted papers will present at the workshop. Presented papers ca
 
 ### Organizers
 
-- Giovanni Sileno, Informatics Institute, University of Amsterdam, the Netherlands
+- Giovanni Sileno, University of Amsterdam, the Netherlands
 - Christoph Becker, Flemish Institute for Technological Research (VITO), Antwerp, Belgium
 - Nicola Lettieri, INAPP (National Institute for Public Policy Analysis) and University of Sannio, Italy
 
