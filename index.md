@@ -43,7 +43,22 @@ Authors of the accepted papers will present at the workshop. Presented papers ca
 
 ### Program Committee
 
-TBA
+- Christopher	Frantz, Norwegian University of Science and Technology (NTNU)
+- Charlotte	Gerritsen, Vrije Universiteit (VU) Amsterdam
+- Marina De Vos, University of Bath
+- Davide Marocco, University of Naples "Federico II"
+- Nieves Montes, Artificial Intelligence Research Institute (IIIA-CSIC), Barcelona
+- Gary Polhill, James Hutton Institute
+- Davide Dell'Anna, Delft University of Technology
+- Margherita Vestoso, University of Sannio
+- Veronika Fikfak, University of Copenhagen
+- Vitor V. Vasconcelos, University of Amsterdam
+- Fernando Pascoal Dos Santos, University of Amsterdam
+- Nadia	Giuffrida, Polytechnic University of Bari
+- Parantapa Bhattacharya, Biocomplexity Institute & Initiative, University of Virginia
+- Isaak	Mengesha, University of Amsterdam
+- Mostafa Mohajeri Parizi, University of Amsterdam
+- ...
 
 ### Keynote speaker
 
