@@ -44,7 +44,7 @@ Authors of the accepted papers will present at the workshop. Presented papers ca
 ### Program Committee
 
 - Christopher	Frantz, Norwegian University of Science and Technology (NTNU)
-- Charlotte	Gerritsen, Vrije Universiteit (VU) Amsterdam
+- Charlotte	Gerritsen, Vrije Universiteit (VU), Amsterdam
 - Marina De Vos, University of Bath
 - Davide Marocco, University of Naples "Federico II"
 - Nieves Montes, Artificial Intelligence Research Institute (IIIA-CSIC), Barcelona
@@ -61,6 +61,7 @@ Authors of the accepted papers will present at the workshop. Presented papers ca
 - Alessandro Pluchino, University of Catania
 - Wander Jager, University of Groningen
 - Mostafa Mohajeri Parizi, University of Amsterdam
+- Dominique	Blouin, Télécom Paris
 - ...
 
 ### Keynote speaker
