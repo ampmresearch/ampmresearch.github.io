@@ -62,6 +62,7 @@ Authors of the accepted papers will present at the workshop. Presented papers ca
 - Wander Jager, University of Groningen
 - Mostafa Mohajeri Parizi, University of Amsterdam
 - Dominique	Blouin, Télécom Paris
+- Sebastian Benthall, New York University School of Law
 - ...
 
 ### Keynote speaker
