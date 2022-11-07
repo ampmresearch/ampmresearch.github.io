@@ -84,6 +84,6 @@ TBA
 
 Registration via the main conference [https://jurix2022.rechtsinformatik.saarland/](https://jurix2022.rechtsinformatik.saarland/). If your participation is remote, you still need to register as remote participants.
 
-##### Proceedings of previous Editions
 
-- AMPM 2021: [https://ceur-ws.org/Vol-3182/](https://ceur-ws.org/Vol-3182/)
+-------------------
+Previous editions: 2021, [program](https://ampmresearch.github.io/ampm2021-program), [proceedings](https://ceur-ws.org/Vol-3182/)
