@@ -36,7 +36,7 @@ The workshops considers several forms of submission:
 - short (5-6 pages) or long papers (max 10 pages) for original material proposed to publication,
 - material already submitted to other conferences or journals (only for presentation and discussion).
 
-Authors of accepted abstracts presented at the workshop will be asked to extend their contributions to short papers. Authors of papers accepted for presentation can receive accepted or conditionally acceptance for publication in the open-access CEUR workshop post-proceedings. A round of reviews will be conducted on the camera-ready version to support that feedback and discussions are adequately integrated.
+Authors of accepted abstracts presented at the workshop will be asked to extend their contributions to short papers to be reviewed for publication. Authors of papers accepted for presentation can receive accepted or conditionally acceptance to publication. A second round of reviews (January-February 2023) will be conducted to support that feedback and discussions are adequately integrated. Post-proceedings will be published in the open-access CEUR workshop series.
 
 Submission should occur before **November 14th 2022** via easychair: [https://easychair.org/conferences/?conf=ampm2022](https://easychair.org/conferences/?conf=ampm2022). 
 
