@@ -31,7 +31,7 @@ The workshop aims to attract participants from various disciplines, and to be of
 
 ### Participation and Submission
 
-The workshops considers several forms of submission:
+The workshop considers several forms of submission:
 - extended abstracts (500-1000 words, excluding references) to discuss preliminary work, 
 - short (5-6 pages) or long papers (max 10 pages) for original material proposed to publication,
 - material already submitted to other conferences or journals (only for presentation and discussion).
@@ -40,7 +40,9 @@ Authors of accepted abstracts presented at the workshop will be asked to extend 
 
 Submission should occur before **November 14th 2022** via easychair: [https://easychair.org/conferences/?conf=ampm2022](https://easychair.org/conferences/?conf=ampm2022). 
 
-Please use the CEURART 1-col style to prepare your submission ([LaTeX](http://ceur-ws.org/Vol-XXX/CEURART.zip), [Overleaf](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk), [DOCX](http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx), [ODT](http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.odt)). The prototypical submission for AMPM would be a reduced but self-complete and convincing version of a study (model, method, tool, theory, ..) — ongoing work to be later submitted to larger venues as AAMAS or similar —, or an innovative/provocative position paper, or a sound research stub with respect to the challenges expressed above.
+Please use the CEURART 1-col style to prepare your submission ([LaTeX](http://ceur-ws.org/Vol-XXX/CEURART.zip), [Overleaf](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk), [DOCX](http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx), [ODT](http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.odt)). 
+
+The prototypical submission for AMPM would be a reduced but self-complete and convincing version of a study (model, method, tool, theory, ..) — ongoing work to be later submitted to larger venues as AAMAS or similar —, or an innovative/provocative position paper, or a sound research stub with respect to the challenges expressed above.
 
 ### Organizers
 
