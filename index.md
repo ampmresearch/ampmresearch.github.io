@@ -38,7 +38,7 @@ The workshops considers several forms of submission:
 
 Authors of accepted abstracts presented at the workshop will be asked to extend their contributions to short papers. Authors of papers accepted for presentation can receive accepted or conditionally acceptance for publication in the open-access CEUR workshop post-proceedings. A round of reviews will be conducted on the camera-ready version to support that feedback and discussions are adequately integrated.
 
-Submission should occur before *November 14th 2022* via easychair: [https://easychair.org/conferences/?conf=ampm2022](https://easychair.org/conferences/?conf=ampm2022). 
+Submission should occur before **November 14th 2022** via easychair: [https://easychair.org/conferences/?conf=ampm2022](https://easychair.org/conferences/?conf=ampm2022). 
 
 Please use the CEURART 1-col style to prepare your submission ([LaTeX](http://ceur-ws.org/Vol-XXX/CEURART.zip), [Overleaf](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk), [DOCX](http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx), [ODT](http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.odt)). The prototypical submission for AMPM would be a reduced but self-complete and convincing version of a study (model, method, tool, theory, ..) — ongoing work to be later submitted to larger venues as AAMAS or similar —, or an innovative/provocative position paper, or a sound research stub with respect to the challenges expressed above.
 
@@ -78,12 +78,12 @@ TBA
 
 ### Important Dates
 
-- Submission deadline: ~~4 November~~ 14 November 2022 until 23:59,
+- Submission deadline: ~~4 November~~ **14 November 2022** until 23:59,
 - Notification of acceptance: ~~*18 November 2022*~~ 25 November 2022
 - Workshop: 14 December 2022 (hybrid).
 
 Registration via the main conference [https://jurix2022.rechtsinformatik.saarland/](https://jurix2022.rechtsinformatik.saarland/). If your participation is remote, you still need to register as remote participants.
 
-##### Previous Editions
+##### Proceedings of previous Editions
 
 - AMPM 2021: [https://ceur-ws.org/Vol-3182/](https://ceur-ws.org/Vol-3182/)
