@@ -86,4 +86,4 @@ Registration via the main conference [https://jurix2022.rechtsinformatik.saarlan
 
 
 -------------------
-Previous editions | AMPM 2021: [program](https://ampmresearch.github.io/ampm2021-program), [proceedings](https://ceur-ws.org/Vol-3182/)
+Previous editions | AMPM 2021: [program](https://ampmresearch.github.io/ampm2021-program), [proceedings](https://ceur-ws.org/Vol-3182/) | ...
