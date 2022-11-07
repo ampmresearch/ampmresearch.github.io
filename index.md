@@ -32,7 +32,7 @@ The workshop aims to attract participants from various disciplines, and to be of
 ### Participation and Submission
 
 The workshops considers several forms of submission:
-- extended abstracts (500-1000 words, excluding references) to discuss preliminary work/work in progress, 
+- extended abstracts (500-1000 words, excluding references) to discuss preliminary work, 
 - short (5-6 pages) or long papers (max 10 pages) for original material proposed to publication,
 - material already submitted to other conferences or journals (only for presentation and discussion).
 
@@ -86,4 +86,4 @@ Registration via the main conference [https://jurix2022.rechtsinformatik.saarlan
 
 
 -------------------
-Previous editions || AMPM 2021: [program](https://ampmresearch.github.io/ampm2021-program), [proceedings](https://ceur-ws.org/Vol-3182/) | ...
+- AMPM 2021: [program](https://ampmresearch.github.io/ampm2021-program), [proceedings](https://ceur-ws.org/Vol-3182/) 
