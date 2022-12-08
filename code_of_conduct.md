@@ -1,4 +1,4 @@
-# Code of Conduct for AMPM 2021 virtual workshop
+# Code of Conduct for the AMPM workshop
 
 All attendees, speakers, sponsors, and volunteers at the AMPM workshop are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody: Be kind to each other, show empathy, and help make this a safe space to explore tangible, equitable solutions.
 
