@@ -15,7 +15,7 @@ in conjunction with [JURIX 2022](https://jurix2022.rechtsinformatik.saarland/), 
 *13:30 - 14:25* (CET)
 
 - *Opening remarks* (10min)
-- **Christopher Frantz**, TBA
+- **Christopher Frantz**, _The Institutional Grammar: An analytical paradigm for institutional analysis_
 
 10 min pause
 
@@ -24,7 +24,7 @@ in conjunction with [JURIX 2022](https://jurix2022.rechtsinformatik.saarland/), 
 *14:25 - 15:10* (CET)
 
 - **Nieves Montes**, **Georgina Curto**, **Nardine Osman** and **Carles Sierra**, _An Agent-Based Model for Poverty and Discrimination Policy-Making_
-- **Daniel Mayerhoffer** and **Jan Schulz**, _Redistribution, Social Segregation and Voting information _
+- **Daniel Mayerhoffer** and **Jan Schulz**, _Redistribution, Social Segregation and Voting information_
 - **Michael Belfrage**, **Fabian Lorig** and **Paul Davidsson**, _Collaborative Challenges: When Modellers and Policymakers Simulate Public Policy_
 
 10 min pause
