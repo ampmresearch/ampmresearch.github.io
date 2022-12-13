@@ -15,8 +15,8 @@ in conjunction with [JURIX 2022](https://jurix2022.rechtsinformatik.saarland/), 
 *13:30 - 14:25* (CET)
 
 - *Opening remarks* (10min)
-- **Christopher Frantz**, _The Institutional Grammar: An analytical paradigm for institutional analysis_
-
+- **Christopher Frantz** (NTNU), **Saba Siddiki** (Syracuse University), **_The Institutional Grammar: An analytical paradigm for institutional analysis_** 
+- 
 10 min pause
 
 ### Session 1 
@@ -35,7 +35,7 @@ in conjunction with [JURIX 2022](https://jurix2022.rechtsinformatik.saarland/), 
 
 - **Laura Mazzarino**, **Alessio Emanuele Biondo** and **Alessandro Pluchino**, _Financial Markets and Individual Attitudes: a Stick-Balancing model_
 - **Fabian Adelt**, **Matteo Barsanti**, **Sebastian Hoffmann**, **Debopama Sen Sarma**, **Jan Sören Schwarz**, **Ben Vermeulen**, **Tom Warendorf**, **Claudia Binder**, **Bert Droste-Franke**, **Sebastian Lehnhoff**, **Johanna Myrzik**, **Christian Rehtanz** and **Johannes Weyer**, _Co-Simulation of Socio-Technical Energy Systems: An Interdisciplinary Design Process_
-- **Bart de Bruin**, _Perception thermometers: modelling with changing values in social simulation _   
+- **Bart de Bruin**, _Perception thermometers: modelling with changing values in social simulation_   
 
 10 min pause
 
