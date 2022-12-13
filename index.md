@@ -75,9 +75,9 @@ The prototypical submission for AMPM would be a reduced but self-complete and co
 - Sebastian Benthall, New York University School of Law
 - ...
 
-### Keynote speaker
+### Keynote speakers
 
-- Christopher Frantz, **The Institutional Grammar: An analytical paradigm for institutional analysis** (13h30-14h15)
+- Christopher Frantz (NTNU), Saba Siddiki (Syracuse University), **The Institutional Grammar: An analytical paradigm for institutional analysis** (13h30-14h15)
 
 ### Important Dates
 
