@@ -6,7 +6,7 @@ in conjunction with [JURIX 2022](https://jurix2022.rechtsinformatik.saarland/), 
 - Workshop date and time: December 14th, 2022, Saarbrücken, Germany
 - Deadline for submission: ~~November 4th, 2022~~ **November, 14th, 2022**
 
-- **Venue** for remote participation: TBA, from 13:30 to 17:00 CET
+- **Venue** for remote participation: [Teams - register here](https://teams.microsoft.com/registration/JwBhZ8MatkmGQczYPOGwHw,tqhiQNimvUiHWHFWCUQ1MQ,k1MDNBKmYEqXNEnP8BSvBQ,37KjZBXBmUGHTsgCeEW2jg,2wFSGBQHVEGMEVQFgF0HCA,dL65RXOaV0qSc-ZMrf4jqw?mode=read&tenantId=67610027-1ac3-49b6-8641-ccd83ce1b01f), from 13:30 to 17:00 CET
 - [**Preliminary Program**](https://ampmresearch.github.io/ampm2022-program)
 
 ### Motivation
@@ -78,7 +78,7 @@ The prototypical submission for AMPM would be a reduced but self-complete and co
 
 ### Keynote speaker
 
-TBA
+- Christopher Frantz, **The Institutional Grammar: An analytical paradigm for institutional analysis** (13h30-14h15)
 
 ### Important Dates
 
