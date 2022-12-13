@@ -15,7 +15,7 @@ in conjunction with [JURIX 2022](https://jurix2022.rechtsinformatik.saarland/), 
 *13:30 - 14:25* (CET)
 
 - *Opening remarks* (10min)
-- Christopher Frantz (NTNU), Saba Siddiki (Syracuse University), **The Institutional Grammar: An analytical paradigm for institutional analysis** (13h30-14h15)
+- **Christopher Frantz** (NTNU), **Saba Siddiki** (Syracuse University), **_The Institutional Grammar: An analytical paradigm for institutional analysis_** 
 
 10 min pause
 
