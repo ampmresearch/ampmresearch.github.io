@@ -6,7 +6,7 @@ in conjunction with [JURIX 2022](https://jurix2022.rechtsinformatik.saarland/), 
 **Program** 
 
 - Date: December 14, 2021 
-- Venue: [Teams - register here](https://teams.microsoft.com/registration/JwBhZ8MatkmGQczYPOGwHw,tqhiQNimvUiHWHFWCUQ1MQ,k1MDNBKmYEqXNEnP8BSvBQ,37KjZBXBmUGHTsgCeEW2jg,2wFSGBQHVEGMEVQFgF0HCA,dL65RXOaV0qSc-ZMrf4jqw?mode=read&tenantId=67610027-1ac3-49b6-8641-ccd83ce1b01f) -- if this does not work try the [Zoom broadcast](https://uva-live.zoom.us/j/88942225570)
+- Venue: [Teams - register here](https://teams.microsoft.com/registration/JwBhZ8MatkmGQczYPOGwHw,tqhiQNimvUiHWHFWCUQ1MQ,k1MDNBKmYEqXNEnP8BSvBQ,37KjZBXBmUGHTsgCeEW2jg,2wFSGBQHVEGMEVQFgF0HCA,dL65RXOaV0qSc-ZMrf4jqw?mode=read&tenantId=67610027-1ac3-49b6-8641-ccd83ce1b01f) 
 - [Code of conduct](https://github.com/ampmresearch/ampmresearch.github.io/blob/main/code_of_conduct.md)
 - Contact: [ampm2022@easychair.org](mailto:ampm2022@easychair.org) 
 
