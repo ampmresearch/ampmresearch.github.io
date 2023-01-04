@@ -6,7 +6,7 @@ in conjunction with [JURIX 2022](https://jurix2022.rechtsinformatik.saarland/), 
 **Program** 
 
 - Date: December 14, 2021 
-- Venue: [Teams - register here](https://teams.microsoft.com/registration/JwBhZ8MatkmGQczYPOGwHw,tqhiQNimvUiHWHFWCUQ1MQ,k1MDNBKmYEqXNEnP8BSvBQ,37KjZBXBmUGHTsgCeEW2jg,2wFSGBQHVEGMEVQFgF0HCA,dL65RXOaV0qSc-ZMrf4jqw?mode=read&tenantId=67610027-1ac3-49b6-8641-ccd83ce1b01f) 
+- Venue: **Teams** (disabled)
 - [Code of conduct](https://github.com/ampmresearch/ampmresearch.github.io/blob/main/code_of_conduct.md)
 - Contact: [ampm2022@easychair.org](mailto:ampm2022@easychair.org) 
 
@@ -23,7 +23,7 @@ in conjunction with [JURIX 2022](https://jurix2022.rechtsinformatik.saarland/), 
 
 *14:25 - 15:10* (CET)
 
-- **Nieves Montes**, **Georgina Curto**, **Nardine Osman** and **Carles Sierra**, _An Agent-Based Model for Poverty and Discrimination Policy-Making_
+- **Nieves Montes**, **Georgina Curto**, **Nardine Osman** and **Carles Sierra**, _An Agent-Based Model for Poverty and Discrimination Policy-Making_ [presentation](presentations/22_1_NMontes.pdf) 
 - **Daniel Mayerhoffer** and **Jan Schulz**, _Redistribution, Social Segregation and Voting information_
 - **Michael Belfrage**, **Fabian Lorig** and **Paul Davidsson**, _Collaborative Challenges: When Modellers and Policymakers Simulate Public Policy_
 
@@ -34,7 +34,7 @@ in conjunction with [JURIX 2022](https://jurix2022.rechtsinformatik.saarland/), 
 *15:20 - 16:05* (CET)
 
 - **Laura Mazzarino**, **Alessio Emanuele Biondo** and **Alessandro Pluchino**, _Financial Markets and Individual Attitudes: a Stick-Balancing model_
-- **Fabian Adelt**, **Matteo Barsanti**, **Sebastian Hoffmann**, **Debopama Sen Sarma**, **Jan Sören Schwarz**, **Ben Vermeulen**, **Tom Warendorf**, **Claudia Binder**, **Bert Droste-Franke**, **Sebastian Lehnhoff**, **Johanna Myrzik**, **Christian Rehtanz** and **Johannes Weyer**, _Co-Simulation of Socio-Technical Energy Systems: An Interdisciplinary Design Process_
+- **Fabian Adelt**, **Matteo Barsanti**, **Sebastian Hoffmann**, **Debopama Sen Sarma**, **Jan Sören Schwarz**, **Ben Vermeulen**, **Tom Warendorf**, **Claudia Binder**, **Bert Droste-Franke**, **Sebastian Lehnhoff**, **Johanna Myrzik**, **Christian Rehtanz** and **Johannes Weyer**, _Co-Simulation of Socio-Technical Energy Systems: An Interdisciplinary Design Process_ [presentation](presentations/22_5_FAdelt.pdf) 
 - **Bart de Bruin**, _Perception thermometers: modelling with changing values in social simulation _   
 
 10 min pause
