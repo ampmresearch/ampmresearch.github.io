@@ -6,7 +6,7 @@ in conjunction with [JURIX 2022](https://jurix2022.rechtsinformatik.saarland/), 
 **Program** 
 
 - Date: December 14, 2021 
-- Venue: **Teams** (disabled)
+- Venue: ~~Teams~~ (disabled now)
 - [Code of conduct](https://github.com/ampmresearch/ampmresearch.github.io/blob/main/code_of_conduct.md)
 - Contact: [ampm2022@easychair.org](mailto:ampm2022@easychair.org) 
 
